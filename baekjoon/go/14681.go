@@ -1,6 +1,6 @@
 // 브론즈 5. 사분면 고르기
 
-package main
+// package main
 
 import "fmt"
 
