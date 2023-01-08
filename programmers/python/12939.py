@@ -1,3 +1,5 @@
+# Lv 2. 최댓값과 최솟값
+
 def solution(s):
     nums = s.split()
     nums = list(map(int, nums))

@@ -1,3 +1,5 @@
+# Lv 2. 구명보트 - 탐욕법(Greedy)
+
 """
 초기 풀이, timeout
 def solution(people, limit):

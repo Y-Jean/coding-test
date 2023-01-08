@@ -1,3 +1,5 @@
+# Lv 2. 피보나치 수
+
 def solution(n):
     answer = 0
     a, b = 1, 1

@@ -1,3 +1,5 @@
+# Lv 3. 정수 삼각형 - 동적 계획법(Dynamic Programming)
+
 def solution(triangle):
     answer = 0
     for i in range(1, len(triangle)):

@@ -1,3 +1,5 @@
+# Lv 2. 카펫 - 완전탐색
+
 def solution(brown, yellow):
     answer = []
 

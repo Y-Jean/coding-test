@@ -1,3 +1,5 @@
+# Lv 2. 최솟값 만들기
+
 def solution(A,B):
     answer = 0
 

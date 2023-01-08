@@ -1,3 +1,5 @@
+# Lv 3. 가장 긴 팰린드롬
+
 def solution(s):
     answer = 0
 
