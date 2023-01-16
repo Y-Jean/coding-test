@@ -1,7 +1,8 @@
-<?
+<?php
+
 // Lesson 3. Time Complexity - FrogJmp
 
-function solution ($X, $Y, $D)
+function solution($X, $Y, $D)
 {
     $answer = 0;
 

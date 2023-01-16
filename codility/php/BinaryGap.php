@@ -1,7 +1,8 @@
-<?
+<?php
+
 // Lesson 1. Iterations - BinaryGap
 
-function solution ($N)
+function solution($N)
 {
     $answer = 0;
     $binary_num = str_split(decbin($N));

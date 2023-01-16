@@ -1,7 +1,8 @@
-<?
+<?php
+
 // Lesson 2. Arrays - CyclicRotation
 
-function solution ($A, $K)
+function solution($A, $K)
 {
     $answer = [];
 

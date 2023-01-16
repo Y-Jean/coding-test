@@ -1,7 +1,8 @@
-<?
+<?php
+
 // Lesson 2. Arrays - OddOccurrencesInArray
 
-function solution ($A)
+function solution($A)
 {
     $answer = 0;
 
@@ -34,7 +35,7 @@ function solution($A) {
             break;
         }
     }
-    
+
     return $answer;
 }
 */
